@@ -32,5 +32,6 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=morningstar9047)](htt
 
 ### 🎉 Career
 <p>
-    📌 비타소프트 (2021.02.15~2023.07.05)
+    📌 비타소프트 (2021.02.~2023.07.)<br/>
+    🆚 안랩 (2024.01.~)
 </p>
