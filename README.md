@@ -8,7 +8,8 @@
 <p>
     👋 Hi there! I'm a <b>3rd year Backend developer</b>.<br/>
     I managed the AI learning data construction project as a project manager at my previous company.<br/>
-    I collaborated with various kind of teams such as Designer, Web-Front, AOS, IOS, AI etc to develop software platforms.<br/><br/>
+    I collaborated with various kind of teams such as Designer, Web-Front, AOS, IOS, AI etc to develop software platforms.<br/>
+    Now I'm engaged in OpenSource Management.<br/><br/>
     I work out or play the guitar in my spare time. 🏋️‍♀️ 🎻 <br/>
     I do PS(Problem Solving) at least one problem a day using Baekjoon Online Judge. 🎯<br/><br/>
     I hope to meet good teammates and develop wonderful things.✨<br/><br/>
